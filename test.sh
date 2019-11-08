@@ -5,7 +5,7 @@
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
-echo Git is a version control system.
+echo Git is a distributed version control system.
 echo Git is free software.
 
 exit 0
