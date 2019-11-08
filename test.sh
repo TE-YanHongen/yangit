@@ -9,6 +9,6 @@ echo Git is a distributed version control system.
 echo Git is free software distributed under GPL.
 echo Git has a mutable index called stage.
 echo Git tracks changes of files.
-echo Creating a new branch is quick.
+echo Creating a new branch is quick and simple.
 exit 0
 
