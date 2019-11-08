@@ -8,6 +8,6 @@ export PATH
 echo Git is a distributed version control system.
 echo Git is free software distributed under GPL.
 echo Git has a mutable index called stage.
-echo Git tracks changes.
+echo Git tracks changes of files.
 exit 0
 
